@@ -1,29 +1,27 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *SmartCore*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+*SmartCore is currently touted as the most advanced machine-learning library for the Rust programming language. It is a comprehensive library featuring methods for machine learning and numerical computing. The library provides tools for linear algebra, numerical computing, and optimization. The SmartCore landing page states SmartCore "enables a generic, powerful, yet still efficient approach to machine learning.*
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
+| Repository URL | https://github.com/smartcorelib/smartcore |
+| Main/documentation website | https://smartcorelib.org/ |
+| Year project was started | 2020 |
+| Number of contributors in the past year | 9 |
+| Number of contributors in the lifetime of the project | 17 |
+| Number of distinct affiliations | 1 |
+| Where do development discussions take place? | GitHub Issues |
 | Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Typical number of commits per week? | 4-6 |
+| Typical commit size | 1-5 files, 30-40 insertions, 5-25 deletions (outliers exist in log) |
+| How does the project accept contributions? | Email and Pull Requests |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
