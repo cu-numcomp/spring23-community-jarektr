@@ -15,7 +15,7 @@
 | Number of contributors in the lifetime of the project | 17 |
 | Number of distinct affiliations | 1 |
 | Where do development discussions take place? | GitHub Issues |
-| Typical number of emails/comments per week? |   |
+| Typical number of emails/comments per week? | 0-5 |
 | Typical number of commits per week? | 4-6 |
 | Typical commit size | 1-5 files, 30-40 insertions, 5-25 deletions (outliers exist in log) |
 | How does the project accept contributions? | Email and Pull Requests |
