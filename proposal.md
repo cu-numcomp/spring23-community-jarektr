@@ -28,13 +28,13 @@
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
+- [x] I have installed the software
+- [x] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
 ### Notes/concerns/risks
-None at this time
+The test suite only runs on `git push` I'm going to try modifying the file to have it just run locally. 
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
