@@ -30,8 +30,8 @@ encountered a problem.
 
 - [x] I have installed the software
 - [x] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [x] I have run the test suite
+- [x] The test suite passes
 
 ### Notes/concerns/risks
 The test suite only runs on `git push` I'm going to try modifying the file to have it just run locally. 
