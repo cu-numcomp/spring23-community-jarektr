@@ -34,7 +34,7 @@ encountered a problem.
 - [x] The test suite passes
 
 ### Notes/concerns/risks
-The test suite only runs on `git push` I'm going to try modifying the file to have it just run locally. 
+None at this time 
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
